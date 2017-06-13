@@ -1976,6 +1976,30 @@
 			"path": "gopkg.in/yaml.v2",
 			"revision": "cd8b52f8269e0feb286dfeef29f8fe4d5b397e0b",
 			"revisionTime": "2017-04-07T17:21:22Z"
+		},
+		{
+			"checksumSHA1": "7TXmaY2EULtYSnf7FotEKtAnCWs=",
+			"path": "k8s.io/kubernetes/federation/pkg/dnsprovider",
+			"revision": "f89d2493f100bf7268b8778d7e077e7d5383c50b",
+			"revisionTime": "2017-06-07T11:48:08Z"
+		},
+		{
+			"checksumSHA1": "jVDMfQlk8ywVcFuzOF596pC0QoA=",
+			"path": "k8s.io/kubernetes/federation/pkg/dnsprovider/providers/coredns",
+			"revision": "f89d2493f100bf7268b8778d7e077e7d5383c50b",
+			"revisionTime": "2017-06-07T11:48:08Z"
+		},
+		{
+			"checksumSHA1": "FU+Tt47S7Xh6Q1nOFchqkkMiLo8=",
+			"path": "k8s.io/kubernetes/federation/pkg/dnsprovider/providers/coredns/stubs",
+			"revision": "f89d2493f100bf7268b8778d7e077e7d5383c50b",
+			"revisionTime": "2017-06-07T11:48:08Z"
+		},
+		{
+			"checksumSHA1": "wuwmU9JrcCwNIX/fLszqsZ6n3DQ=",
+			"path": "k8s.io/kubernetes/federation/pkg/dnsprovider/rrstype",
+			"revision": "f89d2493f100bf7268b8778d7e077e7d5383c50b",
+			"revisionTime": "2017-06-07T11:48:08Z"
 		}
 	],
 	"rootPath": "github.com/hashicorp/terraform"
